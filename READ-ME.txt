@@ -1,6 +1,6 @@
   =>  Template Name    : Kacem Service - Construction Company Website Template
 
-  =>  Template Link    : https://hamidkacem.netlify.app//construction-company-website-template
+  =>  Template Link    : https://hamidkacem.netlify.app
 
   =>  Template License : https://hamidkacem.netlify.app//license (or read the LICENSE.txt file)
 
